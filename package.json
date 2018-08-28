@@ -1,0 +1,14 @@
+{
+  "name": "ctci",
+  "version": "1.0.0",
+  "description": "Exercises from the book Cracking the Coding Interview in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrés Alvarez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
